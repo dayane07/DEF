@@ -1,4 +1,5 @@
 def subtracao(a,b):
-    print (a - b)
+    return a - b
 
-subtracao(10,5)
+resultado1 = subtracao(30, 20)
+print (f"30 - 20 = {resultado1}")
